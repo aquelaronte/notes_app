@@ -1,4 +1,4 @@
-use notes_app::{db, json};
+use notes_rust_io::{db, json};
 use std::io;
 
 fn main() {
